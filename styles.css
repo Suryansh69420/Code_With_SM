@@ -1,0 +1,50 @@
+body{
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: aqua;
+    color: white;
+    padding: 10PX 20px;
+    text-align: center;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    color: white;
+}
+nav ul li{
+    display: inline;
+    color: white;
+    margin: 0 15px;   
+}
+main{
+    padding: 20px;
+}
+#hero{
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+}
+.course{
+    border: 1px solid#ccc;
+    margin: 15px 0;
+    padding: 20px;
+}
+button{
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #45a049;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+}
