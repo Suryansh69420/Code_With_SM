@@ -4,7 +4,7 @@ body{
     padding: 0;
 }
 header{
-    background-color: aqua;
+    background-color: #4caf50;
     color: white;
     padding: 10PX 20px;
     text-align: center;
@@ -23,12 +23,12 @@ main{
     padding: 20px;
 }
 #hero{
-    background-color: #f4f4f4;
+    background-color: #4caf50;
     padding: 40px;
     text-align: center;
 }
-.course{
-    border: 1px solid#ccc;
+course{
+    border: 1px solid#4caf50;
     margin: 15px 0;
     padding: 20px;
 }
